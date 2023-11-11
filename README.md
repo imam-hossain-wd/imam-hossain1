@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm [Your Name], a passionate Full Stack Developer with a strong background in web technologies and a knack for problem-solving. I specialize in building robust and scalable applications using a variety of tools and technologies.
+I'm Imam Hossain, a passionate Full Stack Developer with a strong background in web technologies and a knack for problem-solving. I specialize in building robust and scalable applications using a variety of tools and technologies.
 
 ## 🔧 Technologies & Tools
 
@@ -19,7 +19,7 @@ I'm [Your Name], a passionate Full Stack Developer with a strong background in w
 
 ## 🌱 Currently Learning
 
-I am always eager to learn and stay ahead in the ever-evolving tech landscape. Currently, I am focused on [mention what you are currently learning or exploring].
+I am always eager to learn and stay ahead in the ever-evolving tech landscape. Currently, I am focused on AWS.
 
 ## 👯 Looking to Collaborate On
 
