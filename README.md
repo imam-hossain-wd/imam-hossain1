@@ -1,5 +1,5 @@
 <!-- Add a div with inline CSS to set the background color -->
-<div style="background-color: #f0f0f0; padding: 20px;">
+<div style="background-color:#516395; padding: 20px;">
 
 # Hi there! 👋
 
